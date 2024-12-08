@@ -26,7 +26,7 @@ jobs:
 
       # Step 4: Build Angular project
       - name: Build Angular app
-        run: ng build --configuration=production --base-href="https://yasmine-maarbani.github.io/ourEcom/"
+        run: ng build --configuration=production --base-href="https://DcrKarim.github.io/ourEcom/"
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
